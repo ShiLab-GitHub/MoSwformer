@@ -1,5 +1,5 @@
 # MoSwformer
-MoSwformer， a framework for cancer subtype classification, integrating multi-omics data with transfer models, MAL to tackle high dimensionality and complexity. The model leverages attention mechanisms for optimal data weighting and captures commonalities through MAL. The SET encoder enhances pattern recognition, offering a comprehensive cancer subtype analysis approach. This reposiry contains the data and python scripts in support of the manuscript: MoSwformer: A Transformer-based patient classification model using multi-omics data.
+MoSwformer, a framework for cancer subtype classification, integrating multi-omics data with transfer models, MAL to tackle high dimensionality and complexity. The model leverages attention mechanisms for optimal data weighting and captures commonalities through MAL. The SET encoder enhances pattern recognition, offering a comprehensive cancer subtype analysis approach. This reposiry contains the data and python scripts in support of the manuscript: MoSwformer: A Transformer-based patient classification model using multi-omics data.
 # Environment Requirement
 The code has been tested running under Python 3.8. The required packages are as follows:
 - torch == 1.12.1 (GPU version)
